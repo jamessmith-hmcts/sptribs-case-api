@@ -61,7 +61,7 @@ public final class DocmosisTemplateConstants {
             4.     Clerk: Please refer back to any Judge on receipt of the report, the update or after 3 months.\
             A party is entitled to challenge any direction given by applying within a month for another direction which amends, \
             suspends or sets aside the first direction. \
-             \
+            
             Expert Questions (detail to be completed by Tribunal)\
              \
             1.     Has the appellant suffered a disabling mental injury or illness which is directly attributable to the \
